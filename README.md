@@ -2,3 +2,5 @@
 
 Our first DSCI100 repository
 
+we can clone our project down into our home folder
+Use the https URL
